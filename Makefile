@@ -50,7 +50,7 @@ install:
 	install -D -m0755 scripts/clatd.networkmanager $(NM_DISPATCHER)
 
 DEB_PACKAGES = \
- perl-base perl-modules libnet-ip-perl libnet-dns-perl libjson-perl \
+ perl libnet-ip-perl libnet-dns-perl libjson-perl \
  iproute2 nftables tayga
 
 RPM_PACKAGES = \
