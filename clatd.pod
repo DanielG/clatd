@@ -457,7 +457,7 @@ not carry a prefix length.
 B<clatd> will not attempt to perform a connectivity check to a discovered PLAT
 prefix before setting up the CLAT, as I<RFC 7050> suggest it should.
 
-=head1 BUGS
+=head1 REPORTING BUGS
 
 If you are experiencing any bugs or have any feature requests, head over to
 L<https://github.com/toreanderson/clatd/issues> and submit a new issue (if
